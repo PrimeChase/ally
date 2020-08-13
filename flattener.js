@@ -1,6 +1,7 @@
 var uglyArray =  [[1,2,[3,[5]]],4]; 
 
 //Chase
+//dev ready
 function flatten(items) {
     const flat = [];
   
