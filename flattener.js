@@ -20,4 +20,3 @@ console.log(flat);
   }
 
 flatten(uglyArray);
-//allymaygrace
